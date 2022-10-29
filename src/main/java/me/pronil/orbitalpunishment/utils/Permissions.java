@@ -2,14 +2,14 @@ package me.pronil.orbitalpunishment.utils;
 
 public enum Permissions {
 
-    WARN("punishmentcore.warn"),
-    KICK("punishmentcore.kick"),
-    MUTE("punishmentcore.mute"),
-    UNMUTE("punishmentcore.unmute"),
-    TEMPBAN("punishmentcore.tempban"),
-    BAN("punishmentcore.ban"),
-    UNBAN("punishmentcore.unban"),
-    GET_PUNISHMENTS("punishmentcore.getpunishments");
+    WARN("orbitalpunishment.warn"),
+    KICK("orbitalpunishment.kick"),
+    MUTE("orbitalpunishment.mute"),
+    UNMUTE("orbitalpunishment.unmute"),
+    TEMPBAN("orbitalpunishment.tempban"),
+    BAN("orbitalpunishment.ban"),
+    UNBAN("orbitalpunishment.unban"),
+    GET_PUNISHMENTS("orbitalpunishment.getpunishments");
 
     public final String permission;
 
